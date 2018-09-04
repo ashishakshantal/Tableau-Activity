@@ -1,0 +1,8 @@
+On some food chain restaurant data set (FB_Data)
+1. Create a hierarchy with Location name, revenue center name and menu item name and observe how each of these are performing. While working with the menu items visualization, consider only top 10 items based on revenue
+2. Identify which revenue centers are performing better
+3. Identify which months in the year have highest sales
+4. Provide the employee IDs for each location
+5. Give a box plot for Revenue for each location
+6. Create a Dashboard with the plots of your choice to show any insights
+7. Create a Story
